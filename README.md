@@ -1,2 +1,2 @@
 # Assignment-1
-http://localhost/skill-vertex/assessment1.html
+http://localhost/skill-vertex/Assignment1.html
